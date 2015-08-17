@@ -1,4 +1,4 @@
----
+--- new text
 layout: page
 title: Amend the last commit message
 description: How to amend the last git commit message
